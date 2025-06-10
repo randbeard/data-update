@@ -1,3 +1,11 @@
 {
-  "message" : "?"
+  "message" : "?",
+  "license": "MIT",
+  "name": "poopbutt",
+  "version": "1.0.0",
+  
+  "main": "index.js",
+  "scripts": {
+    "start": "retrieve.js"
+  }
 }
