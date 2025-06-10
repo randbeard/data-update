@@ -1,10 +1,7 @@
-console.log("TESTING NOW NOW NOW");
+console.log("initiating express module");
+
+// need to attain stupid ass express node js module for server traffic
 const express = require("express");
 const app = express();
 
-app.use(express.static('build'));
-const path = require('path');
 
-app.get('*', (req, res) => {
-  res.sendFile(path.resolve(__dirname, 'build', 'index.html'))
-})
