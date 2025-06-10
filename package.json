@@ -4,8 +4,7 @@
   "name": "poopbutt",
   "version": "1.0.0",
   
-  "main": "retrieve.js",
   "scripts": {
-    "start": "retrieve.js"
+    "start": "node index.js"
   }
 }
