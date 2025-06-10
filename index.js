@@ -1,3 +1,4 @@
+console.log("TESTING NOW NOW NOW");
 const express = require("express");
 const app = express();
 
