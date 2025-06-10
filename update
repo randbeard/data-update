@@ -1,1 +1,3 @@
-print("HELLO WORLD FROM RANDYBEARD")
+{
+  ["READ"] = 1,
+}
